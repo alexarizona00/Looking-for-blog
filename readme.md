@@ -32,7 +32,7 @@ This is a multi user single page blog where users can login and post messages fo
 
 # Installation
 just use the App on heroku!
-
+https://pacific-ocean-25892.herokuapp.com/
 # Usage
 a shared blog site to share ideas with friends
 
